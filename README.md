@@ -23,7 +23,7 @@ We will strive to always keep available the following methods of reading the Hit
 ### 4. Freedom  
 Maintain free, open-source, and non-commercial nature of all our projects. This does not mean proprietary and/or closed-source tools won't be recommendeded. All scientific knowledge should be free for anyone and we support and encourage Sci-Hub and LibGen. Any attempt to erode the freedom of information and flow of knowledge of our projects, in any manner, is hostile.
 
-### 5. Verifiability, falsiability and reproducibility  
+### 5. Verifiability, falsifiability and reproducibility  
   * All our content shall be verifiable, reproducible and unbiased.  
   * All our content shall be based on facts and not beliefs. Those will be based on: 
     * academic references (e.g., studies, papers, and peer reviewed publications);  
@@ -50,7 +50,7 @@ Open-minded and pragmatic - with no tolerance for gatekeeping.
 
 Critical thinking and fact-checking are strongly encouraged; we welcome criticism including of a harsh nature (excluding ad-hominem and slurs).
 
-### 8. We do not tolerate intolerance.  
+### 8. We do not tolerate intolerance  
 See the [Paradox of Tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance), which includes hate speech. 
 
 ### 9. No analytics  
