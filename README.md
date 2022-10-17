@@ -24,7 +24,6 @@ We will strive to always keep available the following methods of reading the Hit
 Maintain free, open-source, and non-commercial nature of all our projects. This does not mean proprietary and/or closed-source tools won't be recommendeded. All scientific knowledge should be free for anyone and we support and encourage Sci-Hub and LibGen. Any attempt to erode the freedom of information and flow of knowledge of our projects, in any manner, is hostile.
 
 ### 5. Verifiability, falsifiability and reproducibility  
-  * All our content shall be verifiable, reproducible and unbiased.  
   * All our content shall be based on facts and not beliefs. Those will be based on: 
     * academic references (e.g., studies, papers, and peer reviewed publications);  
     * reputable media references (e.g., articles, videos, and documentaries);  
