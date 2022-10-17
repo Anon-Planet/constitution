@@ -7,7 +7,7 @@ To amend the rules and regulations of the network and of the PSA community, this
 > Our content is licensed under **[Creative Commons Attribution NonCommercial](https://creativecommons.org/licenses/by-nc/3.0/)** to prevent commercial usage.  
 
 ### 1. Anonymity above everything  
-Anonymity is necessary to maintain the balance of power, specifically to help journalists, whistleblowers, lawyers, scientists, and victims of oppression. Anonymity first, even if that means using non-free and/or proprietary means. Security and privacy are second, again, even if using non-free or non-open-source and/or proprietary means. The ends justify the means.
+Anonymity is necessary to maintain the balance of power, specifically to help journalists, whistleblowers, lawyers, scientists, and victims of oppression. Anonymity first, even if that means using non-free and/or proprietary means. Security and privacy are second, again, even if using non-free or non-open-source and/or proprietary means. In this sense, the ends may at times justify proprietary means.  
 
 ### 2. Independence  
 The Anonymous Planet initiative has no affiliation with the "Anonymous" collective and does not endorse their activities.  
@@ -15,7 +15,6 @@ Any overlap of their activities and our guide are purely coincidental.
 
 ### 3. Accessibility  
 We will strive to always keep available the following methods of reading the Hitchhiker's Guide:  
-
   * online;  
   * offline (e.g., PDF, ODT, EPUB (in the future));  
   * via the Tor network
@@ -24,8 +23,11 @@ We will strive to always keep available the following methods of reading the Hit
 Maintain free, open-source, and non-commercial nature of all our projects. This does not mean proprietary and/or closed-source tools won't be recommendeded. All scientific knowledge should be free for anyone and we support and encourage Sci-Hub and LibGen. Any attempt to erode the freedom of information and flow of knowledge of our projects, in any manner, is hostile.
 
 ### 5. Verifiability, falsifiability and reproducibility  
-  * All our content shall be based on facts and not beliefs. Those will be based on: 
-    * academic references (e.g., studies, papers, and peer reviewed publications);  
+We will make every effort to be transparent about any and all bias we have.  
+Anyone claiming to be unbiased is lying, therefore we will not falsely claim to be.  
+
+All our content shall be verifiable, reproducible and fact-checked:  
+	* academic references (e.g., studies, papers, and peer reviewed publications);  
     * reputable media references (e.g., articles, videos, and documentaries);  
     * official documentation (e.g., manuals, field guides, and technical documents);  
     * renowned and reputable expert review;  
