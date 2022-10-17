@@ -27,11 +27,11 @@ We will make every effort to be transparent about any and all bias we have.
 Anyone claiming to be unbiased is lying, therefore we will not falsely claim to be.  
 
 All our content shall be verifiable, reproducible and fact-checked:  
-	* academic references (e.g., studies, papers, and peer reviewed publications);  
-    * reputable media references (e.g., articles, videos, and documentaries);  
-    * official documentation (e.g., manuals, field guides, and technical documents);  
-    * renowned and reputable expert review;  
-    * direct testing by our own collaborators for falsifiablity  
+  - academic references (e.g., studies, papers, and peer reviewed publications);  
+  - reputable media references (e.g., articles, videos, and documentaries);  
+  - official documentation (e.g., manuals, field guides, and technical documents);  
+  - renowned and reputable expert review;  
+  - direct testing by our own collaborators for falsifiablity  
 
 ### 6. Innocence  
 Suspected offenders are innocent until proven guilty, with zero tolerance for abuse of power or position. 
