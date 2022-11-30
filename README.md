@@ -67,7 +67,7 @@ Any excess donations will only be used to support our main projects first and po
   - No product placements.  
   - No advertising.  
 
-**Disclaimer: it is possible that, coincidentally, a donation could correlate with a recommendation. It will then be clearly stated that while the donation was welcome, the donating entity will not be gaining visibility/coverage/endorsement/recommnendations due to such a donation.**
+**Disclaimer: it is possible that, coincidentally, a donation could correlate with a recommendation. It will then be clearly stated that while the donation was welcome, the donating entity will not be gaining visibility/coverage/endorsement/recommendations due to such a donation.**
 
 ## Core Goals.
 
